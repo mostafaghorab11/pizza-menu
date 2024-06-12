@@ -1,4 +1,4 @@
-[screencapture-localhost-3000-2024-06-12-15_07_06](https://github.com/mostafaghorab11/pizza-menu/assets/58866707/dfe7d3dd-db2c-4834-a613-f17cebb84c54.png)
+![screencapture-localhost-3000-2024-06-12-15_07_06](https://github.com/mostafaghorab11/pizza-menu/assets/58866707/dfe7d3dd-db2c-4834-a613-f17cebb84c54.png)
 
 # Getting Started with Create React App!
 
